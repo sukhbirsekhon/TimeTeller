@@ -28,8 +28,11 @@ If you already have git installed on your computer, then run this command in you
 git clone https://github.com/sukhbirsekhon/TimeTeller.git
 ```
 
-It will 
-You can also download the project in .zip format folder on your local machine. 
+It will download the project for you in your current directory path. 
+
+You can also download the project in .zip format folder on your local machine from github itself.
+
+![image](https://user-images.githubusercontent.com/43282559/135507423-d1746084-30c5-4dfd-87f6-7045725506cb.png)
 
 Once you've cloned or downloaded the project, run the program using python from cloned project directory
 
@@ -46,4 +49,5 @@ and Current time is 01:32:03 PM
 
 (Note: The date and time will be different for you for obvious reasons)
 
+Voila! You made it! 
 
