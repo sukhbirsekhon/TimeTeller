@@ -22,12 +22,13 @@ If you receive an error message, then you should go to this website and follow i
 
 Once you've setup your python, go ahead and clone this project on your local machine. 
 
-If you have git installed in your computer, then run this command in your command prompt:
+If you already have git installed on your computer, then run this command in your command prompt:
 
 ```git
 git clone https://github.com/sukhbirsekhon/TimeTeller.git
 ```
 
+It will 
 You can also download the project in .zip format folder on your local machine. 
 
 Once you've cloned or downloaded the project, run the program using python from cloned project directory
