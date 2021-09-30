@@ -1,6 +1,6 @@
 # TimeTeller (Project 1)
 
-## The goal of this script is to tell tell current date and time.
+## The goal of this script is to tell you current date and time.
 
 I always wondered how to write a program that tells you current date and time. So I decided to make this project using python's datetime library. 
 
