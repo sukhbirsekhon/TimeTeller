@@ -14,7 +14,7 @@ If you are using Linux, then you may need to specify Python3
 ```bash
 python3 --version
 ```
-You should receive this similar following output: 
+You should receive something similar to this following output: 
 
 ![image](https://user-images.githubusercontent.com/43282559/135504563-5988f86c-6b88-49ce-a1b9-49495d77625f.png)
 
