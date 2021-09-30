@@ -18,7 +18,7 @@ You should receive something similar to this following output:
 
 ![image](https://user-images.githubusercontent.com/43282559/135504563-5988f86c-6b88-49ce-a1b9-49495d77625f.png)
 
-If you receive an error message, then you should go this website and follow instructions on how to download python: <a href="https://www.python.org/downloads/">Download Python3</a>
+If you receive an error message, then you should go to this website and follow instructions on how to download python: <a href="https://www.python.org/downloads/">Download Python3</a>
 
 Once you've setup your python, go ahead and clone this project on your local machine. 
 
